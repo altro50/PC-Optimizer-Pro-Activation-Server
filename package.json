@@ -1,0 +1,14 @@
+{
+  "name": "pc_optimizer_pro",
+  "version": "1.0.0",
+  "description": "Emulator for the PC Optimizer Pro activation server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "altro50",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
